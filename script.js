@@ -297,3 +297,4 @@ function checkKill(){
 
 // Listen for keyboard events
 document.addEventListener("keydown", moveCircle);
+// Stepan tvori konflikty
