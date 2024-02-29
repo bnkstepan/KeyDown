@@ -1,4 +1,4 @@
-// komentar na zacatku
+// komentar na preambuli
 dead.style.display = "none";
 gameboard.style.display = "none";
 coinzz.style.display = "none";
